@@ -1,0 +1,42 @@
+#Top .index{
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca2.JPG);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca2.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca2.JPG);
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  #Top .index span{
+    color: #ffc93c;
+    padding: 0 4px 0 1px;
+    position: absolute;
+    width: 225px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: 280px;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    border: solid 3px #ffc93c;
+  }
+  #UEC .index{
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca1.jpg);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca1.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/ueca1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  #SU .index{
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/su1.jpg);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/su1.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/su1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  #ITB .index{
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/itb4.jpg);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/itb4.jpg);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.7) 90%),url(../img/itb4.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
