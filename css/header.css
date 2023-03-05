@@ -2,6 +2,7 @@
     width: 100%;
     background-color: rgba(48, 71, 94, 0.7);
     backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
     border-bottom:5px solid #30475e;
     padding:5px;
     top: 0;
